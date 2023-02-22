@@ -9,7 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        {/* <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
@@ -19,7 +19,16 @@ function App() {
         | Powered by{" "}
         <a target="_blank" href="https://www.htmlhints.com/">
           HTML HINTS
-        </a>
+        </a> */}
+        <a href="https://github.com/Yuvraj-2060/Awesome_Mausam_App">
+          Download Source Code
+        </a>{" "}
+
+        | Developed by{" "}
+        <a target="_blank" href="https://github.com/Yuvraj-2060/Awesome_Mausam_App">
+          Yuvraj Singh 
+        </a>{" "}
+
       </div>
     </React.Fragment>
   );
