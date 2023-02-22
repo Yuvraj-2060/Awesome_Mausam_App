@@ -26,7 +26,7 @@ function App() {
 
         | Developed by{" "}
         <a target="_blank" href="https://github.com/Yuvraj-2060/Awesome_Mausam_App">
-          Yuvraj Singh 
+          Yuvraj Singh (Handsome-Coding)
         </a>{" "}
 
       </div>
